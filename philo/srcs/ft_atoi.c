@@ -6,11 +6,10 @@
 /*   By: tayeo <tayeo@student.42seoul.kr>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/20 21:45:45 by tayeo             #+#    #+#             */
-/*   Updated: 2022/12/07 01:51:25 by tayeo            ###   ########.fr       */
+/*   Updated: 2022/12/10 08:11:21 by tayeo            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "philosopher.h"
 
 int	ft_atoi(const char *str)
 {
